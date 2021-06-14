@@ -1,0 +1,1 @@
+先在SQL 2000里新建一个数据库students，然后把数据库文件夹里的students还原进去或者直接附加数据库students.mdf，然后装Bin文件夹里的ASPAJAXExtSetup.msi控件即可运行。
